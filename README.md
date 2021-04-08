@@ -1,1 +1,3 @@
-### Hi there 👋
+### My Coding Activity
+
+<img src="https://github.com/sweethuman/sweethuman/blob/main/images/stat.svg" alt="Sweethuman Coding Activity"/>
