@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@sweethuman/4dce66ed-e49f-490f-8e71-6c3b7410bc24.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@sweethuman/b6945fdb-d6f2-4702-b812-d70abd7c9153.png
+    :target: https://wakatime.com/
